@@ -24,12 +24,13 @@ Installation
 Support
 -------
 If you have questions or requests or if you find any bugs, please use B3 forums to contact me at 
-http://www.bigbrotherbot.net/forums.
+http://www.bigbrotherbot.net/forums. (Forums no longer exist)
 
-**See Working at** http://config.bigbrotherbot.net
+**See Working at** https://b3configs.reactiongaming.us
 **Author:** Freelander - freelander@bigbrotherbot.net - http://www.bigbrotherbot.net
 
 Update
 -------
 - modified for BigBrotherBot v1.10+
 - add UrbanTerror 4.3 support
+- add Black Ops 2 support
